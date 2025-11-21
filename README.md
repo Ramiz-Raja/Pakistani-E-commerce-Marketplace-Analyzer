@@ -24,4 +24,4 @@ This project is a price comparison and intelligence tool for Pakistani e-commerc
 	- Or use the CLI: `python main.py "product name"`
 
 ## License
-MIT License
+MIT LicenseS
