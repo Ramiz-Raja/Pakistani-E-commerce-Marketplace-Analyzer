@@ -18,3 +18,4 @@ streamlit==1.32.0
 # Updated pandas for Python 3.13 compatibility
 pandas==2.3.3
 plotly==5.18.0
+CrewAI
